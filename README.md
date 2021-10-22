@@ -12,7 +12,7 @@ dataset link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(d
 
 3-32)
 
-Ten real-valued features are computed for each cell nucleus:
+*Ten real-valued features are computed for each cell nucleus:*
 
 a) radius (mean of distances from center to points on the perimeter)
 
